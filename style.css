@@ -1,0 +1,243 @@
+body{
+    background-image: url(/images/aGPTvE.jpg), url(/images/aGPTvE.jpg);
+    background-position: center, top left;
+    background-repeat: no-repeat, repeat;
+    margin: 0;
+    padding: 0;
+}
+.article{
+    background-color: transparent;
+    text-align: center;
+    width: 70%;
+    margin: 15rem;
+    height: 100%;
+   /* box-shadow: 0 0 20px wheat;
+    border-radius: 20px; */
+}
+p{
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(230, 156, 60);
+}
+.img{
+    border-radius: 50px;
+}
+.img2{
+    border-radius: 100px;
+}
+h1{
+    padding-top: 5rem;
+    color: #FFD700;
+}
+.cnt{
+    text-align: center;
+    color: whitesmoke;
+}
+a{
+    color: rgb(151, 243, 243);
+}
+h2{
+    color: #FFD700;
+}
+@media only screen and (max-width: 1024px){
+    .article{
+        width: 940px;
+        height: 100%;
+        font-size: 40px;
+        box-shadow: 0 0 20px wheat;
+        border-radius: 20px;
+        margin: 2.2rem;
+    }
+    section{
+        width: 900px;
+        margin: 1.5rem;
+    }
+    .cnt{
+        text-align: center;
+        color: whitesmoke;
+    }
+    p{
+        font-size: 35px;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    
+}
+@media only screen and (max-width: 820px){
+    .article{
+        width: 750px;
+        height: 100%;
+        font-size: 40px;
+        box-shadow: 0 0 20px wheat;
+        border-radius: 20px;
+        margin: 2rem;
+    }
+    section{
+        width: 700px;
+        margin: 1.5rem;
+    }
+    .cnt{
+        text-align: center;
+        color: whitesmoke;
+    }
+    p{
+        font-size: 35px;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    
+}
+@media only screen and (max-width: 780px){
+    .article{
+        width: 400px;
+        height: 100%;
+        font-size: 20px;
+        box-shadow: 0 0 20px wheat;
+        border-radius: 20px;
+        margin: 2rem;
+    }
+    .cnt{
+        text-align: center;
+        color: whitesmoke;
+
+    }
+    p{
+        font-size: 20px;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    
+}
+@media only screen and (max-width: 768px){
+    .article{
+        width: 700px;
+        height: 100%;
+        font-size: 20px;
+        box-shadow: 0 0 20px wheat;
+        border-radius: 20px;
+        margin: 2rem;
+    }
+    section{
+        width: 600px;
+        margin: 2.7rem;
+    }
+    .cnt{
+        text-align: center;
+        color: whitesmoke;
+
+    }
+    p{
+        font-size: 20px;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    
+}
+@media only screen and (max-width: 460px){
+    .article{
+        width: 350px;
+        height: 100%;
+        font-size: 14px;
+        box-shadow: 0 0 20px wheat;
+        border-radius: 20px;
+        margin: 2rem;
+    }
+    section{
+        width: 300px;
+        margin: 1.5rem;
+    }
+    .cnt{
+        text-align: center;
+        color: whitesmoke;
+
+    }
+    p{
+        font-size: 15px;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    
+}
+@media only screen and (max-width: 430px){
+    .article{
+        width: 370px;
+        height: 100%;
+        font-size: 14px;
+        box-shadow: 0 0 20px wheat;
+        border-radius: 20px;
+        margin: 1.5rem;
+    }
+    section{
+        width: 320px;
+        margin: 1.5rem;
+    }
+    .cnt{
+        text-align: center;
+        color: whitesmoke;
+
+    }
+    p{
+        font-size: 15px;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    
+}
+@media only screen and (max-width: 390px){
+    .article{
+        width: 360px;
+        height: 100%;
+        font-size: 14px;
+        box-shadow: 0 0 20px wheat;
+        border-radius: 20px;
+        margin: 1rem;
+    }
+    .cnt{
+        text-align: center;
+        color: whitesmoke;
+
+    }
+    p{
+        font-size: 15px;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    
+}
+@media only screen and (max-width: 384px){
+    .article{
+        width: 350px;
+        height: 100%;
+        font-size: 14px;
+        box-shadow: 0 0 20px wheat;
+        border-radius: 20px;
+        margin: 1rem;
+    }
+    .cnt{
+        text-align: center;
+        color: whitesmoke;
+
+    }
+    p{
+        font-size: 10px;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    
+}
+@media only screen and (max-width: 360px){
+    .article{
+        width: 330px;
+        height: 100%;
+        font-size: 14px;
+        box-shadow: 0 0 20px wheat;
+        border-radius: 20px;
+        margin: 1rem;
+    }
+    section{
+        width: 290px;
+        margin: 1rem;
+    }
+    .cnt{
+        text-align: center;
+        color: whitesmoke;
+
+    }
+    p{
+        font-size: 10px;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    
+}
