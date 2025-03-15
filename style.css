@@ -14,6 +14,15 @@ body{
    /* box-shadow: 0 0 20px wheat;
     border-radius: 20px; */
 }
+.copyable{
+    user-select: text;
+    text-decoration: white underline;
+}
+.acc{
+    background-color: transparent;
+    border-radius: 10px;
+    box-shadow: 0 0 20px black;
+}
 p{
     font-size: 20px;
     font-family: Georgia, 'Times New Roman', Times, serif;
